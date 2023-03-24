@@ -1,5 +1,6 @@
 import java.util.Random;
 import java.util.Scanner;
+//Final
 public class geradorLoteria {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
